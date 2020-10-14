@@ -1,5 +1,5 @@
 # botnulis
-Aplikasi untuk orang yang malas menyatat, merangkus, meringkas
+Aplikasi untuk orang yang malas menyatat, meringkas, meringkas
 
 ![Rich Presence](https://cdn.discordapp.com/attachments/591492962685419531/765871071643435008/unknown.png)
 
